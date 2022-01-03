@@ -3,7 +3,7 @@ li:hover {
 }
 
 body {
-  background: url(1.jpg) no-repeat center center fixed;
+  background: url(file:///C:/Users/dev/Pictures/1.jpg) no-repeat center center fixed;
   background-size: cover;
   color: lightgreen;
   font-family: monospace;
