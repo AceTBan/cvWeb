@@ -57,7 +57,7 @@ IMG.azerty {
 }
 
 body {
-  background: url(file:///C:/Users/dev/Pictures/aceuil.jpg) no-repeat center center fixed;
+  background: url(aceuil.jpg) no-repeat center center fixed;
   background-size: cover;
   color: black;
   font-weight: bolder;
